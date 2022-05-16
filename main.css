@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+}
+
+
+img {
+    width: 170px;
+    position: absolute;
+    position: relative;
+    left: -100px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding: 8px 20px;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(45, 46, 48);
+    justify-content: center;
+    color: white;
+
+}
+
+.navbar_menu {
+    display: flex;
+    list-style: none;
+    height: 90px;
+    font-size: 8px;
+    transform: translateX(-120px);
+}
+
+.navbar_menu li {
+    display: flex;
+    margin-top: 39px;
+}
+
+body {
+    background-color: rgb(29, 28, 27);
+}
