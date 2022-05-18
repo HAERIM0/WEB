@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+.dark-mode {
+    background-color: rgb(29, 28, 27);
+    color: white;
+}
 
 img {
     width: 170px;
@@ -37,6 +41,12 @@ a {
     margin-top: 39px;
 }
 
-body {
-    background-color: rgb(29, 28, 27);
+.main {
+    position: relative;
+}
+
+.main_in {
+    position: absolute;
+    top: 850px;
+    left: 245px;
 }
