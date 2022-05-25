@@ -16,8 +16,9 @@ img {
 
 a {
     text-decoration: none;
-    color: white;
+    color: rgb(208, 208, 208);
     padding: 8px 20px;
+
 }
 
 .navbar {
@@ -49,4 +50,110 @@ a {
     position: absolute;
     top: 850px;
     left: 245px;
+}
+
+
+.wrap {
+    display: flex;
+    height: 285px;
+    width: 250px;
+    margin-top: 50px;
+    transform: translateX(285px);
+    background-color: rgb(29, 28, 27);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.Calendar {
+    font-size: 20px;
+}
+
+.Calendar i {
+    position: relative;
+    left: 300px;
+    top: -270px;
+}
+
+.Calendar h1 {
+    font-size: 14px;
+    position: relative;
+    left: 332px;
+    top: -292px;
+}
+
+.ejqhrl {
+    list-style: none;
+    position: relative;
+    border-top: 1px solid #ffffff;
+    width: 225px;
+    right: -300px;
+    top: -280px;
+
+}
+
+.ejqhrl h1 {
+    font-size: 14px;
+    position: relative;
+    left: 150px;
+    top: -32px;
+}
+
+.tlscjd {
+    /*신청 박스*/
+    display: flex;
+    background-color: rgb(29, 28, 27);
+    height: 285px;
+    width: 420px;
+    margin-top: -352px;
+    transform: translateX(555px);
+    border: 1px solid rgb(255, 255, 255);
+
+}
+
+.vmfhblf {
+    /*내정보*/
+    display: flex;
+    background-color: rgb(29, 28, 27);
+    height: 415px;
+    width: 350px;
+    margin-top: -286px;
+    transform: translateX(996px);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.imggg img {
+    width: 695px;
+    height: 110px;
+    left: 263px;
+    top: -110px;
+}
+
+.mu {
+    /*기상송*/
+    display: flex;
+    background-color: rgb(29, 28, 27);
+    height: 290px;
+    width: 250px;
+    margin-top: -95px;
+    transform: translateX(284px);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.fd {
+    display: flex;
+    background-color: rgb(29, 28, 27);
+    height: 285px;
+    width: 420px;
+    margin-top: -290px;
+    transform: translateX(556px);
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.qjfwja {
+    display: flex;
+    background-color: rgb(29, 28, 27);
+    width: 350px;
+    height: 285px;
+    margin-top: -286px;
+    transform: translateX(999px);
+    border: 1px solid rgb(255, 255, 255);
 }
